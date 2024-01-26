@@ -1,5 +1,5 @@
 base_url = "https://welpo.github.io/tabi"
-title = "~/tabi"
+title = "tabi"
 description = "tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score."
 author = "welpo"
 generate_feed = true
