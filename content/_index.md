@@ -11,4 +11,4 @@ max_posts = 4
 social_media_card = "social_cards/index.jpg"
 +++
 
-tabi is a fast, lightweight, and modern [Zola](https://www.getzola.org) theme. It aims to be a personal page and home to blog posts. It features a perfect Lighthouse score, responsive design, dark and light themes, custom shortcodes, and much more.
+I am pursing a second master in Data Science at Duke University, specializing on Data Engineering, Cloud Computing and Natural Language Processing. I am a Mechanical Engineering graduate from University of Sheffield (UK), and a former PhD researcher in biomechanics at Imperial College London. Having worked across many industrial and academic sectors, I developed a strong passion in data analytics, programming, and cloud computing, and I am eager to leverage my interdiscinplinary potential beyond the scale of traditional engineering field. Nice to meet you! 
